@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8607899462487688318
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1777576036964480962, guid: f653e99bdd3ad6c4d81e5223dad8a941, type: 3}
+      propertyPath: m_Name
+      value: Tower 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4559087001182106288, guid: f653e99bdd3ad6c4d81e5223dad8a941, type: 3}
+      propertyPath: _shootDelay
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4559087001182106288, guid: f653e99bdd3ad6c4d81e5223dad8a941, type: 3}
+      propertyPath: _shootPower
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4559087001182106288, guid: f653e99bdd3ad6c4d81e5223dad8a941, type: 3}
+      propertyPath: _elementType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4559087001182106288, guid: f653e99bdd3ad6c4d81e5223dad8a941, type: 3}
+      propertyPath: _bulletPrefab
+      value: 
+      objectReference: {fileID: 4309751214716095593, guid: fd487414358f7374bb5cfe5cf804fce7, type: 3}
+    - target: {fileID: 4559087001182106288, guid: f653e99bdd3ad6c4d81e5223dad8a941, type: 3}
+      propertyPath: _bulletElement
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4559087001182106288, guid: f653e99bdd3ad6c4d81e5223dad8a941, type: 3}
+      propertyPath: _shootDistance
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4559087001182106288, guid: f653e99bdd3ad6c4d81e5223dad8a941, type: 3}
+      propertyPath: _bulletSplashRadius
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5604517929349451673, guid: f653e99bdd3ad6c4d81e5223dad8a941, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: a47bd7f6b9e06934594ed6614f16a754, type: 3}
+    - target: {fileID: 8851573083839390948, guid: f653e99bdd3ad6c4d81e5223dad8a941, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8851573083839390948, guid: f653e99bdd3ad6c4d81e5223dad8a941, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8851573083839390948, guid: f653e99bdd3ad6c4d81e5223dad8a941, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8851573083839390948, guid: f653e99bdd3ad6c4d81e5223dad8a941, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8851573083839390948, guid: f653e99bdd3ad6c4d81e5223dad8a941, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8851573083839390948, guid: f653e99bdd3ad6c4d81e5223dad8a941, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8851573083839390948, guid: f653e99bdd3ad6c4d81e5223dad8a941, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8851573083839390948, guid: f653e99bdd3ad6c4d81e5223dad8a941, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8851573083839390948, guid: f653e99bdd3ad6c4d81e5223dad8a941, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8851573083839390948, guid: f653e99bdd3ad6c4d81e5223dad8a941, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8851573083839390948, guid: f653e99bdd3ad6c4d81e5223dad8a941, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f653e99bdd3ad6c4d81e5223dad8a941, type: 3}
